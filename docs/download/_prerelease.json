@@ -1,82 +1,88 @@
 {
-  "version": "1.7.6",
-  "name": "v1.7.6",
-  "created": "2025-01-03T19:45:15Z",
-  "updated": "2025-03-01T12:28:44Z",
-  "published": "2025-01-03T20:07:03Z",
+  "version": "1.10.3",
+  "name": "v1.10.3",
+  "created": "2026-04-10T09:13:33Z",
+  "updated": "2026-04-10T09:20:22Z",
+  "published": "2026-04-10T09:20:02Z",
   "assets": [
     {
       "name": "changelog.md",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/changelog.md",
-      "checksum": "14e030c3a94ef779e2bb8839a6d94fec78d69a26c6a1204bc0641298e1aa65c8",
-      "size": 3368
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/changelog.md",
+      "checksum": "3b6f977391d326ac00ebb90ca65ca95578cfcd5dcafb3228258b842aa05e91af",
+      "size": 3325
     },
     {
-      "name": "quarto-1.7.6-checksums.txt",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-checksums.txt",
-      "checksum": "5e1fc6981cadc0b51f7fba4039e8ca5ab21f4f8ef5129cb19981575733b2d8ff",
-      "size": 931
+      "name": "quarto-1.10.3-checksums.txt",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-checksums.txt",
+      "checksum": "f1ac126b7c1b31c796a3daa28a71064844b9d9a252ee10e8ea05e001faa9cabe",
+      "size": 1031
     },
     {
-      "name": "quarto-1.7.6-linux-amd64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-linux-amd64.deb",
-      "checksum": "416ef9c7fee4253f40c7769c77ab557c46698d619ae9f266d0f98540a00686d7",
-      "size": 126717214
+      "name": "quarto-1.10.3-linux-aarch64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-aarch64.rpm",
+      "checksum": "074e6ba9482313f65e47f10c8966e36eaa28f2c59197051786543b12342eda88",
+      "size": 148021137
     },
     {
-      "name": "quarto-1.7.6-linux-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-linux-amd64.tar.gz",
-      "checksum": "1ecb6a6da168010a6510af99f2f8d49a5fcd9c815e85d5406db2927d36cd1af0",
-      "size": 128149226
+      "name": "quarto-1.10.3-linux-amd64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-amd64.deb",
+      "checksum": "7b69912be217fc95fd497ee5302c7c9885e246b82ec65215cb3cd943e3745823",
+      "size": 140983932
     },
     {
-      "name": "quarto-1.7.6-linux-arm64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-linux-arm64.deb",
-      "checksum": "d2bcb6dea471cf8b8765deaf6f8b1ae50004ba29a6c77f7e2bf30d2c641c9e46",
-      "size": 131147232
+      "name": "quarto-1.10.3-linux-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-amd64.tar.gz",
+      "checksum": "d8e7e95c41d50bf339f079d8ec30c60cf40bc544d07f9c397f5db64f1bc98b92",
+      "size": 138690334
     },
     {
-      "name": "quarto-1.7.6-linux-arm64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-linux-arm64.tar.gz",
-      "checksum": "aa0ccac6fe45074113d6a8340b729a89fc0f7b2021fef36f1ecf55fa8a0ea9ec",
-      "size": 132346951
+      "name": "quarto-1.10.3-linux-arm64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-arm64.deb",
+      "checksum": "4ca1b5ba5805f72d209a9790b7c4a6e9fd3002f0c186979434ef568c15bed50d",
+      "size": 142730684
     },
     {
-      "name": "quarto-1.7.6-linux-rhel7-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-linux-rhel7-amd64.tar.gz",
-      "checksum": "8711a14e226fbd0eb91aab05c3a41e02a7d8c1b74b05995f7698ad4b5de85771",
-      "size": 131279874
+      "name": "quarto-1.10.3-linux-arm64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-arm64.tar.gz",
+      "checksum": "f99afdabebcbaa7b326e2497887608cc1720037bb12c4d21c3f832dc0911c9fa",
+      "size": 138619041
     },
     {
-      "name": "quarto-1.7.6-macos.pkg",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-macos.pkg",
-      "checksum": "bb9b6a5ed51665e36069b0bd46938b89531b9ba369b31157d05698dd1bebb37d",
-      "size": 209293535
+      "name": "quarto-1.10.3-linux-x86_64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-linux-x86_64.rpm",
+      "checksum": "049cda2aac18fd2ca9413407f2e2525378f2611a1d71a6286f6e52068521f0be",
+      "size": 147331288
     },
     {
-      "name": "quarto-1.7.6-macos.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-macos.tar.gz",
-      "checksum": "4ea1411ff46539142a479b674597c325a7c857e78eae05dec2d7c93c268c553c",
-      "size": 209141647
+      "name": "quarto-1.10.3-macos.pkg",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-macos.pkg",
+      "checksum": "698a3375c3221f6019560ae5d5b796f3840b3fafcd3618369ee766cd911078ea",
+      "size": 235889195
     },
     {
-      "name": "quarto-1.7.6-win.msi",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-win.msi",
-      "checksum": "1352160c62e276a7cd4e5543e0f6ba75119a17dbf4758f3270a6538c385520c2",
-      "size": 125366272
+      "name": "quarto-1.10.3-macos.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-macos.tar.gz",
+      "checksum": "a30861c559e1ef985292f8b72281e6a8675e6b3964581a91a932057e778946f6",
+      "size": 235685310
     },
     {
-      "name": "quarto-1.7.6-win.zip",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6-win.zip",
-      "checksum": "45e10da5bb7ce0f16808473d628617c7d1d07b9b7d748763af534affec24f7b8",
-      "size": 125603429
+      "name": "quarto-1.10.3-win.msi",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-win.msi",
+      "checksum": "61d05a9e938446b2cb3550946651e4ad296451b8c9c67c8659a1999b3cb8baad",
+      "size": 140201984
     },
     {
-      "name": "quarto-1.7.6.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.6/quarto-1.7.6.tar.gz",
-      "checksum": "313212954f4c641ca1b80c0dd5fa1dfe9e8ea97a03c1be30a267ee52c50d0cc0",
-      "size": 106492181
+      "name": "quarto-1.10.3-win.zip",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3-win.zip",
+      "checksum": "3acc26d96cb9b0de2ce8835243917519a885770f636cb9f7427e37cc55d5d210",
+      "size": 140398529
+    },
+    {
+      "name": "quarto-1.10.3.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.10.3/quarto-1.10.3.tar.gz",
+      "checksum": "f790387545034143afd0e5d5c301099a025149759b194de18c6d5992a7b8a767",
+      "size": 113004916
     }
   ],
-  "description": "All changes included in 1.7:\n\n## Regression fixes\n\n- ([#11509](https://github.com/quarto-dev/quarto-cli/issues/11509)): Fix link-decoration regression in HTML formats.\n- ([#11532](https://github.com/quarto-dev/quarto-cli/issues/11532)): Fix regression for [#660](https://github.com/quarto-dev/quarto-cli/issues/660), which causes files to have incorrect permissions when Quarto is installed in a location not writable by the current user.\n- ([#11549](https://github.com/quarto-dev/quarto-cli/issues/11549)): Fix regression in rendering `dashboard` tabsets into cards without titles.\n- ([#11580](https://github.com/quarto-dev/quarto-cli/issues/11580)): Fix regression with documents containing `categories` fields that are not strings.\n- ([#11752](https://github.com/quarto-dev/quarto-cli/issues/11752)): Fix regression with non-alphanumeric characters in `categories` preventing correct filtering of listing.\n\n## YAML validation\n\n- ([#11654](https://github.com/quarto-dev/quarto-cli/issues/11654)): Allow `page-inset` as value in `column` key for code cells.\n\n## Website projects\n\n- ([#11701](https://github.com/quarto-dev/quarto-cli/issues/11701)): Wrap HTML emitted by EJS templates in `{=html}` blocks to avoid memory blowup issues with Pandoc's parser.\n\n## Book projects\n\n- ([#11520](https://github.com/quarto-dev/quarto-cli/issues/11520)): Book's cover image now escapes lightbox treatment, which was incorrectly applied to it when `lightbox: true` was set in the book's configuration.\n\n## `quarto check`\n\n- ([#11608](https://github.com/quarto-dev/quarto-cli/pull/11608)): Do not issue error message when calling `quarto check info`.\n\n## `typst` Format\n\n- ([#11578](https://github.com/quarto-dev/quarto-cli/issues/11578)): Typst column layout widths use fractional `fr` units instead of percent `%` units for unitless and default widths in order to fill the enclosing block and not spill outside it.\n\n## Lua Filters and extensions\n\n- ([#11526](https://github.com/quarto-dev/quarto-cli/pull/11526)):\n  General improvements to the style and robustness of Quarto's Lua code.\n  This also provides a new public function `quarto.utils.is_empty_node`\n  that allows to check whether a node is empty, i.e., whether it's an\n  empty list, has no child nodes, and contains no text.\n- ([#11699](https://github.com/quarto-dev/quarto-cli/issues/11699)): Fix crash with `video` shortcode inside HTML comments.\n- Expose new `quarto.paths.tinytex_bin_dir` in Quarto's Lua API. If TinyTeX is found by Quarto, this will be set to the path to the `bin` directory of the TinyTeX installation where command line tool are located (e.g., `pdflatex`, `tlmgr`, etc.). If TinyTeX is not found, this will be `nil`, meaning Quarto will use the system PATH to find the command line tools.\n- Fix `pandoc.mediabag` Lua typings so autocompletions work with the Lua LSP integration.\n\n## Other Fixes and Improvements\n\n- ([#8613](https://github.com/quarto-dev/quarto-cli/issues/8613)): Fix `giscus` color on load to support dark mode (by @kv9898).\n- ([#11441](https://github.com/quarto-dev/quarto-cli/issues/11441)): Don't add newlines around shortcodes during processing.\n- ([#11643](https://github.com/quarto-dev/quarto-cli/issues/11643)): Improve highlighting of nested code block inside markdown code block, i.e. using ` ```{{python}} ` or ` ```python ` inside ` ````markdown` fenced code block.\n"
+  "description": "All changes included in 1.10:\n\n## Regression fixes\n\n- ([#14267](https://github.com/quarto-dev/quarto-cli/issues/14267)): Fix Windows paths with accented characters (e.g., `C:\\Users\\Sébastien\\`) breaking dart-sass compilation.\n- ([#14281](https://github.com/quarto-dev/quarto-cli/issues/14281)): Fix transient `.quarto_ipynb` files accumulating during `quarto preview` with Jupyter engine.\n- ([#14298](https://github.com/quarto-dev/quarto-cli/issues/14298)): Fix `quarto preview` browse URL including output filename (e.g., `hello.html`) for single-file documents, breaking Posit Workbench proxied server access.\n- ([rstudio/rstudio#17333](https://github.com/rstudio/rstudio/issues/17333)): Fix `quarto inspect` on standalone files emitting project metadata that breaks RStudio's publishing wizard.\n\n## Formats\n\n### `typst`\n\n- ([#14261](https://github.com/quarto-dev/quarto-cli/issues/14261)): Fix theorem/example block titles containing inline code producing invalid Typst markup when syntax highlighting is applied.\n\n## Commands\n\n### `quarto preview`\n\n- ([#14281](https://github.com/quarto-dev/quarto-cli/issues/14281)): Avoid creating a duplicate `.quarto_ipynb` file on preview startup for single-file Jupyter documents.\n\n### `install`\n\n- ([#11877](https://github.com/quarto-dev/quarto-cli/issues/11877), [#9710](https://github.com/quarto-dev/quarto-cli/issues/9710)): Add arm64 Linux support for `quarto install chrome-headless-shell` using Playwright CDN as download source, since Chrome for Testing has no arm64 Linux builds.\n- ([#11877](https://github.com/quarto-dev/quarto-cli/issues/11877)): Deprecate `quarto install chromium` — the command now transparently redirects to `chrome-headless-shell`. Installing `chrome-headless-shell` automatically removes any legacy Chromium installation. Use `chrome-headless-shell` instead, which always installs the latest stable Chrome (the legacy `chromium` installer pins an outdated Puppeteer revision that cannot receive security updates).\n\n### `check`\n\n- ([#11877](https://github.com/quarto-dev/quarto-cli/issues/11877)): `quarto check install` now shows a deprecation warning when legacy Chromium (installed via `quarto install chromium`) is detected, directing users to install `chrome-headless-shell` as a replacement.\n\n### `quarto create`\n\n- ([#14250](https://github.com/quarto-dev/quarto-cli/issues/14250)): Fix `quarto create` producing read-only files when Quarto is installed via system packages (e.g., `.deb`). Files copied from installed resources now have user-write permission ensured.\n\n## Lua API\n\n- ([#14297](https://github.com/quarto-dev/quarto-cli/pull/14297)): Fix `quarto.utils.is_empty_node()` returning inverted results for text nodes (`Str`, `Code`, `RawInline`).\n\n## Other fixes and improvements\n\n- ([#6651](https://github.com/quarto-dev/quarto-cli/issues/6651)): Fix dart-sass compilation failing in enterprise environments where `.bat` files are blocked by group policy.\n- ([#14255](https://github.com/quarto-dev/quarto-cli/issues/14255)): Fix shortcodes inside inline and display math expressions not being resolved.\n- ([#14342](https://github.com/quarto-dev/quarto-cli/issues/14342)): Work around TOCTOU race in Deno's `expandGlobSync` that can cause unexpected exceptions to be raised while traversing directories during project initialization."
 }
