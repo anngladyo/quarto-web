@@ -1,81 +1,88 @@
 {
-  "version": "1.4.240",
-  "name": "v1.4.240",
-  "created": "2023-07-19T18:17:24Z",
-  "updated": "2023-07-19T18:29:02Z",
-  "published": "2023-07-19T18:28:46Z",
+  "version": "1.11.1",
+  "name": "v1.11.1",
+  "created": "2026-07-28T12:30:50Z",
+  "updated": "2026-07-28T12:38:14Z",
+  "published": "2026-07-28T12:37:54Z",
   "assets": [
     {
-      "name": "changelog-1.4.md",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/changelog-1.4.md",
-      "checksum": "a0a043d4ea78f0e98f010b5e924f583934d0096b818e1cb7a9dac59e1ac15a5b",
-      "size": 10728
+      "name": "changelog.md",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/changelog.md",
+      "checksum": "26f8fedba703ede1dfd4bbf3eac717b98b66de57b5c0febb0d18ec9ed3bcba2d",
+      "size": 384
     },
     {
-      "name": "quarto-1.4.240-checksums.txt",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-checksums.txt",
-      "checksum": "e8556b43cfad311964a4efc26ef81a3d55ee018f611c46264296c8ddb57617a2",
-      "size": 951
+      "name": "quarto-1.11.1-checksums.txt",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-checksums.txt",
+      "checksum": "345c35f3864b904450e2a8c97cc56f2893d24d607bd3968d80f8f97fbc41f8b5",
+      "size": 1031
     },
     {
-      "name": "quarto-1.4.240-linux-amd64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-linux-amd64.deb",
-      "checksum": "02968d2f3f390d0b08a7693cac4694c7f84d23182171c2a929f063bb5265e93a",
-      "size": 108315038
+      "name": "quarto-1.11.1-linux-aarch64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-aarch64.rpm",
+      "checksum": "333e089f66be8d858a9c532b9e0fdd040cf2a0955c10598119edf203a41056d2",
+      "size": 155511463
     },
     {
-      "name": "quarto-1.4.240-linux-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-linux-amd64.tar.gz",
-      "checksum": "a514b40f32f8d4f93ef8b9bfca63b1e74232b2eb3f50b097157bb8ffe3e8c4bb",
-      "size": 109535084
+      "name": "quarto-1.11.1-linux-amd64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.deb",
+      "checksum": "bcedc7acc73880e1e976413906aed88b4d71f09e858682219e2331f77ad75f2d",
+      "size": 149779782
     },
     {
-      "name": "quarto-1.4.240-linux-arm64.deb",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-linux-arm64.deb",
-      "checksum": "80395f23cbf1acdb02b1bc45bf33e08ccf9c6e30b664020b4d409db5511eeddf",
-      "size": 109541490
+      "name": "quarto-1.11.1-linux-amd64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-amd64.tar.gz",
+      "checksum": "83251de1640bd7ee87e4df9bdd83bd46d116ce93783c19bbef6f64f1c913a1fe",
+      "size": 147006626
     },
     {
-      "name": "quarto-1.4.240-linux-arm64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-linux-arm64.tar.gz",
-      "checksum": "763c2ff890b1a16644b26fbd3894e362f39ce9a7b2c7a00575c69b61a3db437d",
-      "size": 110642138
+      "name": "quarto-1.11.1-linux-arm64.deb",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.deb",
+      "checksum": "3cba425d77957b11a98448f72efb2be4071623fc5e8a70ed625cf7e85d679638",
+      "size": 150178834
     },
     {
-      "name": "quarto-1.4.240-linux-rhel7-amd64.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-linux-rhel7-amd64.tar.gz",
-      "checksum": "8106722400c3b0a20774edd49ebac3b5f4d6bfd760ebb5ff14af7b8a9311b4cb",
-      "size": 108327555
+      "name": "quarto-1.11.1-linux-arm64.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-arm64.tar.gz",
+      "checksum": "19b81b88b16afb9fa196c182013bd1ea6d1fc9c99b5668c29a06de2d5861c743",
+      "size": 145968714
     },
     {
-      "name": "quarto-1.4.240-macos.pkg",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-macos.pkg",
-      "checksum": "486d89554bab981ad37bb55825e5b9d9a9ca49aae729b9e201d28aa7b2a8041c",
-      "size": 186063308
+      "name": "quarto-1.11.1-linux-x86_64.rpm",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-linux-x86_64.rpm",
+      "checksum": "d1e2ef3674973974988d233884c5774c33de258932dd271356caaddbcd9f2d2d",
+      "size": 156276990
     },
     {
-      "name": "quarto-1.4.240-macos.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-macos.tar.gz",
-      "checksum": "5206cb4d56a8c8e541c8dfdf45d67e6ed38930effa90eecdd90a33e220d18615",
-      "size": 185993921
+      "name": "quarto-1.11.1-macos.pkg",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.pkg",
+      "checksum": "bfb847db9463f58ed5b8319c34d2d113c1ae3afd64df782cdb5e101bb87f0676",
+      "size": 247695513
     },
     {
-      "name": "quarto-1.4.240-win.msi",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-win.msi",
-      "checksum": "f28bbecf449a3488f818a122e51ac1b3894d1e85cdf6914135dd644a277c1dec",
-      "size": 102117376
+      "name": "quarto-1.11.1-macos.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-macos.tar.gz",
+      "checksum": "39af2c40644fc8d4c70f747ee80838423cbac0addfdccfe3a3e580f6b51d8451",
+      "size": 247501208
     },
     {
-      "name": "quarto-1.4.240-win.zip",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240-win.zip",
-      "checksum": "fbeb600cad81fce9c0fc4139aa87fd98f35b8bf8086477117f68d33ea48cc9cd",
-      "size": 102150241
+      "name": "quarto-1.11.1-win.msi",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.msi",
+      "checksum": "509fdbe9b2025f2499aeb631d50816ff62367713d4c94ec71ae588809a7b9afc",
+      "size": 148033536
     },
     {
-      "name": "quarto-1.4.240.tar.gz",
-      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.240/quarto-1.4.240.tar.gz",
-      "checksum": "3e9aad664c92742d20fbe47d55a6bc4ce6b5918a6d460f1b87d0115bd9b45ef6",
-      "size": 80463335
+      "name": "quarto-1.11.1-win.zip",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1-win.zip",
+      "checksum": "8a2955a172fcc9fa7eb464d8184ac1c919d249ff163caec07ee546fe6331a3cb",
+      "size": 148260318
+    },
+    {
+      "name": "quarto-1.11.1.tar.gz",
+      "download_url": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.11.1/quarto-1.11.1.tar.gz",
+      "checksum": "7d4b2cc92db002169e1ac2bd4a5a4fe8f27d4d3be5a27d71443247d27827ee31",
+      "size": 113385592
     }
-  ]
+  ],
+  "description": "All changes included in 1.11:\n\n## Engines\n\n### `knitr`\n\n- ([#14735](https://github.com/quarto-dev/quarto-cli/issues/14735)): Fix `cache-globals` rejecting arrays and booleans, so it now accepts the same forms as `cache-vars` and as knitr itself. Previously only a single string validated, which rejected both `cache-globals: [var_1, var_2]` and the documented `cache-globals: false`.\n"
 }
